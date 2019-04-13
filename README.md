@@ -4,7 +4,7 @@ Simple project that shows how Electron can be used with Mithril, GraphJS and Typ
 # Compiling
 
 ## Necessary Dependencies
-To compile `node-js`, `npm` and `gulp` need to be install. For `node-js` and `npm` check online for installation instruction for your operating system.
+To compile `node-js`, `npm` and `gulp` need to be installed. For `node-js` and `npm` check online for installation instruction for your operating system.
 
 To install gulp run: 
 ```
